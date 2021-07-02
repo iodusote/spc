@@ -1,0 +1,64 @@
+h1 {
+  text-align: justify;
+  margin-top: 50px;
+  position: relative;
+  left: 70px;
+  font-family: sans-serif;
+  color: white;
+
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 15px;
+  width: 70%;
+  position: relative;
+  left: 70px;
+  line-height: 20px;
+  color: grey;
+
+}
+
+.full-div {
+  background-color: hsl(233, 47%, 7%);
+  height: 100%;
+  width: 100%;
+}
+
+.body-div {
+  background-color: hsl(244, 38%, 16%);
+  width: 500px;
+  height: 445px;
+  display: inline-block;
+  position: relative;
+  left: 160px;
+  margin-top: 100px;
+}
+
+.image-div {
+  margin-top: 100px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: 600px;
+  display: inline-block;
+}
+
+
+.insights {
+  color: hsl(277, 64%, 61%);
+}
+
+.top-CTQ {
+  margin-top: 60px;
+  margin-bottom: 0;
+  color: white;
+}
+
+.CTQ {
+  font-family: sans-serif;
+  font-size: 12px;
+  position: relative;
+  bottom: 10px;
+  color: grey;
+}
